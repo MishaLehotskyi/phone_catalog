@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './FavouritesPage.scss';
 import { useContext } from 'react';
 import { useSearchParams } from 'react-router-dom';

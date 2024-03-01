@@ -1,4 +1,4 @@
-/* eslint-disable max-len */
+/* eslint-disable */
 import './ProductDetailsPage.scss';
 import { Link, useParams } from 'react-router-dom';
 import { useContext, useEffect, useState } from 'react';

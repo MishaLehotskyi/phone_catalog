@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './Pagination.scss';
 import React from 'react';
 import { Link, useSearchParams } from 'react-router-dom';

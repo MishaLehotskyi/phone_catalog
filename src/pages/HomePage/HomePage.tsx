@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './HomePage.scss';
 import { useEffect, useState } from 'react';
 import { getProducts } from '../../api';

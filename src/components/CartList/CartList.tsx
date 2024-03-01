@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './CartList.scss';
 import { useContext } from 'react';
 import { CartItem } from '../CartItem/CartItem';

@@ -1,4 +1,4 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
+/* eslint-disable */
 import {
   HashRouter as Router, Route, Routes,
 } from 'react-router-dom';

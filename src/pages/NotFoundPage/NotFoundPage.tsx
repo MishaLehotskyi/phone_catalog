@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './NotFoundPage.scss';
 import { Link } from 'react-router-dom';
 

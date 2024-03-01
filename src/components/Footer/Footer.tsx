@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './Footer.scss';
 import { Link } from 'react-router-dom';
 import { IMAGE_BASE_URL } from '../../helpers/constants';

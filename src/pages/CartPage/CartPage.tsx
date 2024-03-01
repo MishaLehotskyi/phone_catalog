@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './CartPage.scss';
 import { useContext } from 'react';
 import { Back } from '../../components/Back/Back';

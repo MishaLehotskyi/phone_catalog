@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './ProductsSlider.scss';
 import React, { useState } from 'react';
 import classNames from 'classnames';

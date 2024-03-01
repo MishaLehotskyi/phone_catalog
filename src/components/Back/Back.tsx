@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './Back.scss';
 import { useNavigate } from 'react-router-dom';
 

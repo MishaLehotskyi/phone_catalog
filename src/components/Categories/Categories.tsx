@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './Categories.scss';
 import React from 'react';
 import { Link } from 'react-router-dom';

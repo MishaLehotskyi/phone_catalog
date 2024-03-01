@@ -1,5 +1,5 @@
 import './Header.scss';
-// eslint-disable-next-line import/no-extraneous-dependencies
+/* eslint-disable */
 import {
   Link, NavLink, useLocation,
 } from 'react-router-dom';

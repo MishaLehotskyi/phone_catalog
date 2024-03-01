@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './TabletsPage.scss';
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';

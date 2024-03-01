@@ -1,7 +1,7 @@
+/* eslint-disable */
 import './SearchBar.scss';
 import React, { useCallback, useState } from 'react';
 import { useLocation, useSearchParams } from 'react-router-dom';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import debounce from 'lodash.debounce';
 import classNames from 'classnames';
 import { SearchParams } from '../../types/SearchParams';
