@@ -58,7 +58,7 @@ export const Carousel = () => {
               }}
             >
               <img
-                src={`${IMAGE_BASE_URL}/img/carousel/${banner}.png`}
+                src={`${IMAGE_BASE_URL}img/carousel/${banner}.png`}
                 className="carousel__image"
                 alt={banner}
               />
