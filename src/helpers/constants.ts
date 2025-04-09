@@ -3,7 +3,7 @@ export const BASE_URL
   = 'https://mate-academy.github.io/react_phone-catalog/_new/';
 
 export const IMAGE_BASE_URL
-  = 'https://mishalehotskyi.github.io/react_phone-catalog/';
+  = 'https://mishalehotskyi.github.io/phone_catalog';
 
 export const SORT_BY = {
   Newest: 'age',
